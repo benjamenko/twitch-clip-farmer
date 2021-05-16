@@ -2,4 +2,4 @@
 
 [Work in progress]
 
-Application that downloads top twitch clips. Details to follow
+Application that downloads top twitch clips. Details to follow.
